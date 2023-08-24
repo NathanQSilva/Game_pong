@@ -1,1 +1,3 @@
-y -= vel
+if (global.dois_jogadores) {
+	y -= vel
+}

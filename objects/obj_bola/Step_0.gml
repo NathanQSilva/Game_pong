@@ -1,0 +1,1 @@
+global.velv_bola = vspeed

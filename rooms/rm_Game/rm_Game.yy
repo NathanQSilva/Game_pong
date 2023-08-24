@@ -12,6 +12,9 @@
     {"name":"inst_315C6AF6","path":"rooms/rm_Game/rm_Game.yy",},
     {"name":"inst_1FF25FAC","path":"rooms/rm_Game/rm_Game.yy",},
     {"name":"inst_391044D0","path":"rooms/rm_Game/rm_Game.yy",},
+    {"name":"inst_25F3BD65","path":"rooms/rm_Game/rm_Game.yy",},
+    {"name":"inst_14B7DB88","path":"rooms/rm_Game/rm_Game.yy",},
+    {"name":"inst_75123863","path":"rooms/rm_Game/rm_Game.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -21,6 +24,9 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_315C6AF6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":180.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1FF25FAC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"rotation":0.0,"scaleX":10.0,"scaleY":0.5,"x":0.0,"y":-32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_391044D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"properties":[],"rotation":0.0,"scaleX":10.0,"scaleY":0.5,"x":0.0,"y":360.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_25F3BD65","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":6.6406255,"x":-32.0,"y":-32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_14B7DB88","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":6.6406255,"x":640.0,"y":-32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_75123863","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":312.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Rosto","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_4EA93DC0","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_rosto","path":"sprites/spr_rosto/spr_rosto.yy",},"x":0.0,"y":0.0,},
